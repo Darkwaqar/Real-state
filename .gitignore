@@ -1,0 +1,9 @@
+node_modules
+vendor 
+tmp
+ssl
+perl5
+public_ftp
+mail
+logs
+etc

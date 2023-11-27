@@ -1,0 +1,1251 @@
+[12-Mar-2023 08:42:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[12-Mar-2023 08:43:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[12-Mar-2023 08:45:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[12-Mar-2023 08:48:20 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[12-Mar-2023 17:40:55 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.26. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[13-Mar-2023 18:48:55 UTC] PHP Fatal error:  Cannot redeclare App\Models\Properties::agentListing() in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/app/Models/Properties.php on line 2150
+[13-Mar-2023 18:49:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\Properties::agentListing() in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/app/Models/Properties.php on line 2150
+[13-Mar-2023 18:49:11 UTC] PHP Fatal error:  Cannot redeclare App\Models\Properties::agentListing() in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/app/Models/Properties.php on line 2150
+[13-Mar-2023 18:52:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\AgentTeam::agentTeams() in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/app/Models/AgentTeam.php on line 35
+[15-Mar-2023 17:03:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:03:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:03:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:04:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:04:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:05:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:06:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:08:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:10:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:10:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 419
+[15-Mar-2023 17:11:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 856
+[15-Mar-2023 17:19:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 856
+[15-Mar-2023 17:20:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 856
+[15-Mar-2023 17:20:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 560
+[24-Mar-2023 16:42:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/cg8amjk11jto/public_html/demo.wizardinnovations.us/aris-final/vendor/composer/platform_check.php on line 24
+[25-May-2023 18:33:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-May-2023 18:33:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-May-2023 18:33:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 15:53:40 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\RefreshS3BucketUrl, because the name is already in use in /home/aris360/public_html/app/Console/Commands/RefreshS3BucketUrl3.php on line 9
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Jul-2023 17:52:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Aug-2023 12:56:36 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\RefreshS3BucketUrl, because the name is already in use in /home/aris360/public_html/app/Console/Commands/RefreshS3BucketUrl2.php on line 9
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[23-Aug-2023 17:58:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Console\Kernel" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Console\Kernel] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/artisan(33): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[25-Sep-2023 16:01:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#14 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[02-Oct-2023 16:35:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "App\Exceptions\Handler" does not exist in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:889
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(889): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#13 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#15 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [App\Exceptions\Handler] does not exist. in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:891
+Stack trace:
+#0 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build('App\\Exceptions\\...')
+#1 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('App\\Exceptions\\...', Array, false)
+#2 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(296): Illuminate\Foundation\Application->resolve('App\\Exceptions\\...', Array, false)
+#3 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(885): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(770): Illuminate\Container\Container->build(Object(Closure))
+#5 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(856): Illuminate\Container\Container->resolve('Illuminate\\Cont...', Array, true)
+#6 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(706): Illuminate\Foundation\Application->resolve('Illuminate\\Cont...', Array)
+#7 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#8 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(303): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#9 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(222): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#10 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(204): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#11 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(246): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\Contracts\Container\BindingResolutionException))
+#12 /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#14 {main}
+  thrown in /home/aris360/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 891
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Warning:  require(/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php): Failed to open stream: No such file or directory in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
+[05-Oct-2023 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/aris360/public_html/vendor/composer/../../app/Http/helpers.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/aris360/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/aris360/public_html/vendor/composer/autoload_real.php(38): composerRequire5ddaea3db3fe16fc8baed8803dac3e7c('6d394c3a532652d...', '/home/aris360/p...')
+#1 /home/aris360/public_html/vendor/autoload.php(25): ComposerAutoloaderInit5ddaea3db3fe16fc8baed8803dac3e7c::getLoader()
+#2 /home/aris360/public_html/artisan(18): require('/home/aris360/p...')
+#3 {main}
+  thrown in /home/aris360/public_html/vendor/composer/autoload_real.php on line 55
