@@ -1,0 +1,141 @@
+/* Theme Name: Brizzle - Responsive Landing Page Template
+
+   Author: Themesdesign
+
+   Version: 1.0.0
+
+   File Description: Default CSS file of the template
+
+*/
+
+
+
+
+
+.text-custom,
+
+.navbar-custom .navbar-nav li a:hover,
+
+.navbar-custom .navbar-nav li a:active,
+
+.navbar-custom .navbar-nav li.active a,
+
+.team-social li a:hover ,
+
+.social .social-icon:hover{
+
+    color: #000000 !important;
+
+}
+
+.play-video-btn,
+
+.bg-custom,
+
+.btn-custom,.social-icon > li a:hover,.back-to-top:hover {
+
+    background-color: #000000;
+
+}
+
+
+
+.btn-custom, .home-registration-form .form-control:focus,
+
+.custom-form .form-control:focus,
+
+.social .social-icon:hover,
+
+.registration-input-box:focus {
+
+    border-color: #000000;
+
+}
+
+
+
+.price-box-active {
+
+     border:2px solid #000000;
+
+}
+
+
+
+.btn-custom:hover,
+
+.btn-custom:focus,
+
+.btn-custom:active,
+
+.btn-custom.active,
+
+.btn-custom.focus,
+
+.btn-custom:active,
+
+.btn-custom:focus,
+
+.btn-custom:hover,
+
+.open > .dropdown-toggle.btn-custom {
+
+  border-color: #000000;
+
+  background-color: #ffffff;
+  
+  color: #000000;
+
+  outline: none;
+
+  box-shadow: 0 20px 38px rgba(0, 0, 0, 0.16);
+
+}
+
+
+
+.btn-two{
+
+    /* color: rgb(113, 113, 113);
+
+    background-color: white;
+
+    border:2px solid rgb(113, 113, 113); */
+
+
+
+    color: #000000 !important;
+
+    background-color: white;
+
+    border:2px solid #000000;
+
+}
+
+
+
+
+
+.btn-two:hover,
+
+.btn-two:focus,
+
+.btn-two:active,
+
+.btn-two.active,
+
+.btn-two.focus,
+
+.btn-two:active,
+
+.btn-two:focus,
+
+.btn-two:hover{
+
+    color: #000000 !important;
+
+    background-color: white;
+
+    border:2px solid #000000;
+
+}

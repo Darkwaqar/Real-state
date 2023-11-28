@@ -1,0 +1,641 @@
+@media only screen and (max-width:1920px) {
+}
+@media only screen and (max-width:1540px) {
+}
+@media only screen and (max-width:1440px) {
+    /* dashboard-start */
+    .top img {
+        max-width: 100%;
+    }
+    .lead-txt p {
+        font-size: 16px;
+    }
+    .price-txt {
+        font-size: 18px;
+    }
+    .luxury-txt {
+        font-size: 16px;
+    }
+    .bartxt {
+        font-size: 14px;
+    }
+    .cardprofilewrap .small-text {
+        font-size: 15px;
+    }
+    .table-txt {
+        width: 230px;
+    }
+    .table-aris .user-section {
+        max-width: 110px;
+    }
+    .checkboxwaps {
+        margin-left: 15px;
+    }
+    .listing-cardwrapper {
+        padding: 10px;
+    }
+    .profile-image-box .avatar-upload .avatar-preview > div {
+        width: 100%;
+        min-height: 240px;
+    }
+    .proflie-btnleft {
+        margin-top: -160px;
+    }
+    .setting-tabwrap .nav-pills .nav-link {
+        padding: 15px 45px 15px 20px;
+    }
+    /* dashboard-end */
+    .closeBtn {
+        right: 0px;
+    }
+	.home-link {
+        margin-top: 20px;
+    }
+    .tabs-Btns-section {
+        padding: 70px 0px 0;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        height: 400px;
+    }
+    .load-details-page {
+        top: -150%;
+        right: 5px;
+    }
+    /* boxes-screen-snap */
+    .gen-text {
+        font-size: 17px;
+    }
+    .gen-heading {
+        font-size: 21px;
+    }
+    /* boxes-screen-snap */
+    /* dashboard-inbox-start */
+    .leftcontentmesage .user-section .username-section {
+        padding-left: 20px;
+    }
+    /* dashboard-inbox-end */
+}
+@media only screen and (max-width:1366px) {
+    .setting-tabwrap .nav-pills .nav-link {
+        padding: 15px 36px 15px 20px;
+    }
+    .setting-tabwrap {
+        padding: 20px 15px;
+    }
+    .leads-wrap {
+        padding: 30px 10px;
+    }
+    .cardprofilewrap .small-text {
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:1280px) {
+    .lead-content {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .lead-number.mt-2 {
+        margin-top: 0px !important;
+    }
+    .listing-cardwrapper .box .bottom {
+        padding: 20px 5px 0 5px;
+    }
+    .price-txt {
+        font-size: 16px;
+    }
+    .aris360prem {
+        padding: 5px 12px;
+    }
+    .saletxt {
+        font-size: 14px;
+    }
+    .heading-text {
+        font-size: 20px;
+    }
+    .luxury-txt {
+        font-size: 15px;
+    }
+    .username-section {
+        padding-left: 7px;
+    }
+    .topbarwrap {
+        padding: 2px 5px;
+    }
+    .searchwrapped.mb-5 {
+        margin-bottom: 1.5rem !important;
+    }
+    .setting-tabwrap .nav-pills .nav-link {
+        padding: 15px 24px 15px 10px;
+    }
+    .tab-headtext {
+        font-size: 22px;
+    }
+	.tabs-text{
+        font-size:14px;
+    }
+    .closeBtn {
+        right: -10px;
+    }
+    .load-details-page.active {
+        padding: 60px;
+    }
+    .load-details-page {
+        top: -150%;
+        right: 25px;
+    }
+    .load-details-page {
+        max-width: 90%;
+    }
+    /* boxes-screen-snap */
+    .gen-text {
+        font-size: 16px;
+    }
+    .logboxinner {
+        padding: 20px 35px;
+    }
+    /* boxes-screen-snap */
+    /* dashboard-inbox-start */
+    .inboxleftcontent {
+        padding: 30px 15px 10px 0px;
+        border-left: 2px solid transparent;
+    }
+    .inbox-lefmsgwrap {
+        padding-left: 10px;
+    }
+    .leftcontentmesage .user-section .username-section {
+        padding-left: 14px;
+    }
+    /* dasboard-inbox-end */
+}
+@media only screen and (max-width:1200px) {
+    .round-circle {
+        padding: 0 9px 0 19px;
+        color: #282828;
+        font-size: 18px;
+    }
+    .tabs-Btns-section .nav .nav-link {
+        font-size: 17px;
+    }
+    .listing-cardwrapper .box .bottom .advants > div > div {
+        flex-direction: column;
+        align-items: baseline;
+    }
+    .address-txt {
+        width: 220px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .closeBtn {
+        right: -12px;
+        top: -20px;
+    }
+     /* boxes-screen-snap */
+     .gen-text {
+        font-size: 16px;
+        min-height: 60px;
+    }
+    .logboxhead .gen-text {
+        min-height: unset;
+    }
+     /* boxes-screen-snap */
+    /* .profile-tabs-rw .col-lg-9 {
+        flex: 0 0 auto;
+        width: 70%;
+    }
+    .profile-tabs-rw .col-lg-3 {
+        flex: 0 0 auto;
+        width: 30%;
+    } */
+    .search-field.profile-search .search-icon.left-searcicon {
+        display:none;
+    }
+    .search-field.profile-search input {
+        padding: 14px 30px 15px 10px;
+    }
+    .userImgtwo img {
+        max-width: 130px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .proflie-btnleft .user-section .name {
+        font-size: 22px;
+    }
+    /* dashboard-inbox-start */
+    .online-dot:after {
+        right: -9%;
+    }
+    /* dashboard-inbox-end */
+}
+@media only screen and (max-width:1040px) {
+
+}
+@media only screen and (max-width:1024px) {
+    /* toggle-wrap-start */
+    /* toggle-wrap-end */
+    .main-right-wrap {
+        width: 100% !important;
+        margin-left: 0px;
+    }
+    .headerWrap {
+        width: 100%;
+    }
+    .home-link {
+        margin-top: 20px;
+    }
+    .mobile-wrap {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        flex-direction: column;
+        justify-content: center !important;
+        width: 100%;
+        max-width: 320px;
+        height: 100%;
+        background: #fff;
+        z-index: 9999;
+        overflow: auto;
+        transition: all 0.5s ease-in-out;
+    }
+   .mobile-wrap.active {
+	     left: 0;
+   }
+   .toogle-close-btn {
+        font-size: 13px;
+        color: #fff;
+        background: transparent;
+        width: 30px;
+        height: 30px;
+        display: block;
+        border: 2px solid #ff0000;
+        border-radius: 50%;
+        position: absolute;
+        top: 1%;
+        right: 1%;
+    }
+    .toogle-close-btn i{
+        color: #ff0000;
+        font-size: 14px;
+    }
+    .mobile-toggle {
+        display: block;
+    }
+    .mobile-toggle {
+        font-size: 18px;
+        padding: 6px 14px;
+        max-width: 40px;
+        height: 40px;
+        width: 100%;
+        margin: 0px 30px 0px;
+    }
+    .load-details-page {
+        top: -150%;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+     /* boxes-screen-snap */
+     .gen-text {
+        font-size: 16px;
+        min-height: 60px;
+    }
+    .gen-heading {
+        font-size: 18px;
+    }
+    .logboxinner {
+        margin-left: 25px;
+        padding: 20px 24px;
+    }
+     /* boxes-screen-snap */
+
+}
+@media only screen and (max-width:991px) {
+    .user-detail-box {
+        padding: 5px 5px;
+        margin-bottom: 5px;
+    }
+    .color-yelow {
+        font-size: 15px !important;
+    }
+    .type a {
+        padding: 5px 5px;
+        font-size: 18px;
+    }
+    .load-details-page {
+        top: -180%;
+    }
+    /* boxes-screen-snap */
+    .logboxinner {
+        border-left:none;
+    }
+    .logboxinner:after {
+       position:unset;
+    }
+    .logboxinner {
+        margin-left: 0px;
+    }
+    /* boxes-screen-snap */
+}
+@media only screen and (max-width:910px) {
+    .userImgtwo img {
+        max-width: 120px;
+    }
+    .proflie-btnleft {
+        margin-top: -70px;
+    }
+    .headerWrap {
+        width: 100%;
+        flex-direction: column;
+    }
+    .header-right-sect {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+    }
+    .header-left-sect{
+        width:100%;
+    }
+	.mobile-toggle {
+        font-size: 16px;
+        padding: 7px 12px;
+        max-width: 36px;
+        height: 38px;
+        margin: 0px 30px 0px;
+    }
+    .user-dashboard {
+        position: relative;
+    }
+    .mobile-toggle {
+        position: absolute;
+        right: 0;
+        top: 40px;
+    }
+    /* box-screen-snap */
+    .logboxhead {
+        padding: 20px 25px;
+    }
+    .header-1 .header-right-sect {
+        width: 100%;
+        max-width: 90%;
+    }
+    .header-1 .notification-dropdown-wrap {
+        left: 0%;
+        right: unset;
+    }
+    .logboxsec1 {
+        padding: 50px 20px;
+    }
+    .logboxinner {
+        padding: 20px 10px;
+    }
+    /* box-screen-snap */
+}
+@media only screen and (max-width:767px) {
+    .team-cardwrap {
+        max-width: 330px;
+        margin: 0 auto;
+    }
+    .slide-button.add-btnmem {
+        text-align: center;
+    }
+    .user-section {
+         margin-bottom: 16px;
+    }
+    .profile-btnwrap {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 0px 20px 20px 20px;
+        flex-direction: column;
+    }
+    .listing-cardwrapper {
+        max-width: 70%;
+        margin: 0 auto 20px;
+    }
+    .box1.box.boxcard {
+        max-width: 60%;
+        margin: 0 auto 25px;
+    }
+    .leads-wrap {
+        max-width: 60%;
+        margin: 0 auto 20px;
+    }
+    .load-details-page {
+        top: -225%;
+        right: 0px;
+    }
+    /* .username-section p {
+        display: none !important;
+    } */
+    /* box-screen-snap */
+    .logboxcontent {
+        border-right: none !important;
+        padding: 10px 30px;
+    }
+    .pddd-30{
+        padding: 30px 0 0 0;
+        margin-top: 30px;
+    }
+    .gen-text {
+        min-height: unset;
+    }
+    .logboxinner{
+       padding-top:0px;
+    }
+    .pddd-0{
+      padding-top:0;
+    }
+    /* box-screen-snap */
+
+}
+@media only screen and (max-width:575px) {
+    .address-txt {
+        width: 240px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .listing-cardwrapper {
+        max-width: 90%;
+        margin: 0 auto 20px;
+    }
+    .box1.box.boxcard {
+        max-width: 80%;
+        margin: 0 auto 25px;
+    }
+    .leads-wrap {
+        max-width: 80%;
+        margin: 0 auto 20px;
+    }
+
+    .small-text {
+        font-size: 14px;
+    }
+    .load-details-page {
+        top: -255%;
+    }
+    .type {
+        padding: 10px 10px 10px 0px;
+    }
+    .type a {
+        padding: 5px 5px;
+        font-size: 13px;
+    }
+    .load-details-page.active {
+        padding: 30px;
+    }
+    .user-info-box {
+        padding: 25px 20px 30px;
+    }
+    .details p {
+        font-size: 15px;
+    }
+    [data-pagination] ul li {
+        padding: 10px 0 0 0;
+    }
+    [data-pagination] {
+        font-size: 15px;
+    }
+    /* .search-field{
+        display:none;
+    } */
+    .searchbar-fullscreen{
+        display:block;
+    }
+    .mobile-wrap {
+        background: transparent;
+    }
+    .main-right-wrap {
+        padding: 10px;
+    }
+    .overlaySearch .fieldWrapper {
+        border-radius: 0px;
+    }
+    .overlaySearch .closebtn {
+        font-size: 36px;
+    }
+    .notification-dropdown-wrap {
+        left: -100px;
+        right: 0;
+        margin: 0 auto;
+    }
+      /* box-screen-snap */
+    .header-1 .header-left-sect {
+        width: 100%;
+        text-align: center;
+    }
+    .header-1  .dashboard_signout {
+        border-left: none;
+    }
+    /* box-screen-snap */
+
+}
+@media only screen and (max-width:425px) {
+    /* box-screen-snap */
+    .header-1 .notification-dropdown-wrap {
+        left: -140%;
+        right: unset;
+    }
+    .logboxhead .gen-text {
+        font-size: 15px;
+    }
+    /* box-screen-snap */
+}
+@media only screen and (max-width:385px) {
+    .tabs-Btns-section .nav .nav-link {
+        padding: 12px 0px;
+    }
+    .listing-cardwrapper .box .bottom .advants {
+        flex-direction: column;
+    }
+    .proflie-btnleft .user-section .username-section {
+        padding-left: 12px;
+        padding-top: 30px;
+    }
+    .proflie-btnleft .user-section .name {
+        font-size: 20px;
+    }
+    .small-text {
+        font-size: 15px !important;
+    }
+    .profile-image-box .avatar-upload .avatar-preview > div {
+        background-size: cover;
+    }
+    .main-left-wrap {
+        max-width: 240px;
+    }
+    .top-secondwrap .home-link {
+        max-width: 200px;
+    }
+    .user-D-Logo img {
+        max-width: 220px;
+    }
+    .tabs-Btns-section {
+        padding: 50px 0px 0;
+    }
+    .user-D-Logo {
+        max-width: 250px;
+        margin: 16px auto 0;
+    }
+    .f_leads_item_details .details {
+        margin-right: 10px;
+    }
+    .searchwrapped .f_leads_item_details .danger {
+        font-size: 16px;
+    }
+    .box1.box.boxcard {
+        max-width: 90%;
+    }
+    .leads-wrap {
+        max-width: 90%;
+    }
+    .heading-text {
+        font-size: 18px;
+    }
+    .editwrappers {
+        margin-right: 20px;
+    }
+    .small-text {
+        font-size: 12px;
+    }
+    .notification-dropdown-wrap {
+        left: -109px;
+        right: 0;
+        margin: 0 auto;
+    }
+    .load-details-page {
+        top: -265%;
+    }
+    .support-inner-wrap .form-btn {
+        padding: 10px 75px;
+    }
+    .details p {
+        font-size: 14px;
+    }
+    [data-pagination] a {
+        padding: 20px 10px;
+    }
+    .color-yelow {
+        font-size: 14px !important;
+    }
+    .loadP-bold-text {
+        font-size: 20px;
+    }
+    .load-details-page.active {
+        padding: 15px;
+    }
+    .type {
+        padding: 5px;
+    }
+    .pink-text {
+        font-size: 14px;
+    }
+    /* box-screen-snap */
+    .header-1 .header-left-sect {
+        width: 100%;
+        text-align: center;
+    }
+    /* box-screen-snap */
+
+}
