@@ -104,39 +104,40 @@ class AgentController extends Controller
     public function hamzaDashboard(){
 
          $data['agentQueries'] = QueryModel::agentQueries();
+         $agent_id = getUserId();
+         $user = Auth::user();
         // dd($data);
         $data['leads'] = QueryModel::agentLeads();
         //dd($data['leads']);
-        $data['userInquiries'] = AgentLeads::where('agent_id', getUserId())
+        $data['userInquiries'] = AgentLeads::where('agent_id',  $agent_id )
             ->with('user')
             ->orderBy('created_at', 'desc')
             ->get()
             ->toArray();
             //dd($data['userInquiries']);
-        $data['userProperties'] = Properties::where(function ($query) {
-            $userId = getUserId();
-            $fullName = Auth::user()->first_name . ' ' . Auth::user()->last_name;
-            
-            $query->where('user_id', $userId)
-                ->orWhere('ListAgentFullName', $fullName);
-        })
-        ->with('propertyDetail','prefferedMedia','StructureType','userProperties')
-        ->get()
-        ->toArray();
+           
+            $fullName = $user->first_name . ' ' . $user->last_name;
+        $data['userProperties'] = Properties::where(function ($query) use ($user, $fullName) {
+                $query->where('user_id',$user->id)
+                    ->orWhere('ListAgentFullName', $fullName);
+            })
+            ->with('propertyDetail', 'prefferedMedia', 'StructureType', 'userProperties')
+            ->get()
+            ->toArray();
              //dd($data['userProperties']);
         $data['propertyLeads'] = PropertyLeads::with('lead_purchased')->orderBy('id', 'desc')->get();
         // dd($data['propertyLeads']);
-        $data['myPropertyLeads'] = WalletDebit::where('agent_id', getUserId())->with('Lead')->orderBy('created_at', 'desc')->get();
+        $data['myPropertyLeads'] = WalletDebit::where('agent_id',  $agent_id )->with('Lead')->orderBy('created_at', 'desc')->get();
         //dd($data['myPropertyLeads']);
-        $data['walletTransactionsHistory'] = WalletCredit::where('agent_id', getUserId())->get();
+        $data['walletTransactionsHistory'] = WalletCredit::where('agent_id',  $agent_id )->get();
         $wallet = new WalletController;
         $data['totalBalance'] = $wallet->total_balance();
-        $data['myLeads'] = WalletDebit::where('agent_id', Auth::user()->id)->count();
-        $data['myProperties'] = Properties::where(['PropertyStatus' => 1, 'user_id' => getUserId()])->count();
-        $data['myPendingProperties'] = Properties::where(['PropertyStatus' => 2, 'user_id' => getUserId()])->count();
-        $data['inquiries'] =  ScheduleTour::with('propertyTour')->where('seller_id', '=', getUserId())->get();
+        $data['myLeads'] = WalletDebit::where('agent_id', $user->id)->count();
+        $data['myProperties'] = Properties::where(['PropertyStatus' => 1, 'user_id' =>  $agent_id ])->count();
+        $data['myPendingProperties'] = Properties::where(['PropertyStatus' => 2, 'user_id' =>  $agent_id ])->count();
+        $data['inquiries'] =  ScheduleTour::with('propertyTour')->where('seller_id', '=',  $agent_id )->get();
         $data['scheduleLeads'] =  ScheduleTour::with('propertyTour', 'lead_purchased')->orderBy('created_at', 'desc')->get();
-        $data['savedSearches'] = SaveSearches::where('user_id', Auth::user()->id)->orderBy('created_at', 'desc')->paginate(5);
+        $data['savedSearches'] = SaveSearches::where('user_id', $user->id)->orderBy('created_at', 'desc')->paginate(5);
         $data['userCity'] = json_encode(Auth::user()->address);
         $data['agentTeams'] = AgentTeam::teams();
         return view('users.hamzadashboard', $data);

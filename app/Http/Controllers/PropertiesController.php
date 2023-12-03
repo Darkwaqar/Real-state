@@ -179,7 +179,7 @@ class PropertiesController extends Controller
 
       $savedSearch['searchCriteria'] = json_decode(base64_decode($request->query('search_criteria')), true);
     } else {
-      $savedSearch  = '';
+      $savedSearch = '';
     }
 
     //dd($savedSearch);
@@ -634,7 +634,7 @@ class PropertiesController extends Controller
       $countMedia = Media::mediaCount($id);
       $topThree = Media::topThree($id);
       $propertyMedia = Media::ProMedia($id);
-      $detailFav =  Properties::find($id)->favoriteProperty;
+      $detailFav = Properties::find($id)->favoriteProperty;
       if ($properties['user_id'] != 0) {
         $Agent = User::realEstateAgentByUserId($properties['user_id']);
       } else {
@@ -672,8 +672,8 @@ class PropertiesController extends Controller
         "SimilarProperties" => $SimilarProperties,
         "propertyMedia" => $propertyMedia,
         "topThreeMedia" => $topThree,
-        "countMedia"    =>  $countMedia,
-        "electricity"    =>  $this->electricity_wattbuy($properties->PostalCode, $properties->PropertyAddress, $properties->CityName, $properties->StateOrProvince, $properties->Bedrooms, $properties->BathroomsFull),
+        "countMedia" => $countMedia,
+        "electricity" => $this->electricity_wattbuy($properties->PostalCode, $properties->PropertyAddress, $properties->CityName, $properties->StateOrProvince, $properties->Bedrooms, $properties->BathroomsFull),
         "agent_details" => $Agent,
       );
 
@@ -695,7 +695,7 @@ class PropertiesController extends Controller
       //     ];
       //    } else {
       // Property data is not available in the local database, fetch from HouseCanary API
-      $PropertiesDetails['canaryData']  = getHouseCanaryResult($properties->PropertyAddress, $id);
+      $PropertiesDetails['canaryData'] = getHouseCanaryResult($properties->PropertyAddress, $id);
       //   }
 
 
@@ -802,36 +802,10 @@ class PropertiesController extends Controller
         $userId = null;
       }
 
-      // Check if there's an existing record for the same property and user
-      $existingRecord = RecentlyViewedProperties::where('property_id', $properties->id)
-        ->first();
-
-      if ($existingRecord) {
-        // Calculate the time difference
-        $currentTime = Carbon::now();
-        $viewedTime = Carbon::parse($existingRecord->created_at);
-        $timeDifferenceInMinutes = $currentTime->diffInMinutes($viewedTime);
-
-        // Define the time threshold (e.g., 60 minutes)
-        $timeThresholdInMinutes = 60;
-
-        if ($timeDifferenceInMinutes <= $timeThresholdInMinutes) {
-          // Update the timestamp of the existing record
-          $existingRecord->touch();
-        } else {
-          // Create a new record
-          RecentlyViewedProperties::create([
-            'user_id' => $userId,
-            'property_id' => $properties->id,
-          ]);
-        }
-      } else {
-        // Create a new record since there's no existing record
-        RecentlyViewedProperties::create([
-          'user_id' => $userId,
-          'property_id' => $properties->id,
-        ]);
-      }
+      RecentlyViewedProperties::updateOrCreate(
+        ['user_id' => $userId, 'property_id' => $properties->id],
+        ['updated_at' => now()]
+      );
 
 
       $PropertiesDetails['recentlyViewedProperties'] = RecentlyViewedProperties::with('property', 'property.prefferedMedia', 'property.favoriteProperty', 'property.StructureType', 'user')
@@ -851,7 +825,7 @@ class PropertiesController extends Controller
       $PropertiesDetails['SchoolDetails'] = [];
       //dd($PropertiesDetails['recentlyViewedProperties']);
       if (env('GREAT_API_ENABLED')) {
-        $PropertiesSchoolDetails =  greatSchool($properties->PropertyLatitude, $properties->PropertyLongitude, $id);
+        $PropertiesSchoolDetails = greatSchool($properties->PropertyLatitude, $properties->PropertyLongitude, $id);
         if (isset($PropertiesSchoolDetails) && count($PropertiesSchoolDetails) > 0) {
           $PropertiesDetails['SchoolDetails'] = $PropertiesSchoolDetails;
         }
@@ -949,7 +923,7 @@ class PropertiesController extends Controller
     $house_type = ''; // optional -- only two options (house,apartment)
 
 
-    if ($city != '' || $state != '' || $zip != '' ||  $address != '') {
+    if ($city != '' || $state != '' || $zip != '' || $address != '') {
       $request_url_params = '?';
 
       if ($wattkey != '' || $wattkey != null) {
@@ -1309,7 +1283,7 @@ class PropertiesController extends Controller
 
   public function propertyEdit(Properties $property)
   {
-    $cehcking =  Properties::where(function ($query) {
+    $cehcking = Properties::where(function ($query) {
       $userId = getUserId();
       $fullName = Auth::user()->first_name . ' ' . Auth::user()->last_name;
 
@@ -1364,7 +1338,7 @@ class PropertiesController extends Controller
     }
   }
 
-  public function storeProperty(Request $request,)
+  public function storeProperty(Request $request, )
   {
     $propertyId = Properties::find($request->propertyId);
     $price = intval(preg_replace('/[^\d.]/', '', $request->SellingPrice));
@@ -1508,9 +1482,9 @@ class PropertiesController extends Controller
           $uniqueName = str::uuid() . '.' . $value->getClientOriginalExtension();
           Storage::disk('s3')->put('properties/' . $uniqueName, file_get_contents($value));
           $data['image'] = $uniqueName;
-          $mediaData['Order'] =  $file;
-          $mediaData['mlsproperties_id'] =  $request->propertyId;
-          $mediaData['PreferredPhotoYN'] =  $file ? 0 : 1;
+          $mediaData['Order'] = $file;
+          $mediaData['mlsproperties_id'] = $request->propertyId;
+          $mediaData['PreferredPhotoYN'] = $file ? 0 : 1;
           $mediaData['wherfrom'] = 2;
           $mediaData['status'] = 1;
           $mediaData['MediaModificationTimestamp'] = Carbon::now();
@@ -1592,7 +1566,7 @@ class PropertiesController extends Controller
   // Fetching single agent data by agent Id
   public function Realestateagentdetail($id)
   {
-    $userId  = getUserIdbySlug($id);
+    $userId = getUserIdbySlug($id);
     if ($userId) {
       $data['reviews'] = Reviews::getAgentReviews($userId);
       // dd($data['reviews'] );
@@ -1715,7 +1689,7 @@ class PropertiesController extends Controller
       $postal_code = '';
       $leadType = $data['lead_type'];
 
-      $lead =   PropertyLeads::create([
+      $lead = PropertyLeads::create([
         'address' => $data['address'],
         'city' => $data['city'],
         'state' => $data['state'],
@@ -1726,7 +1700,7 @@ class PropertiesController extends Controller
         'property_type' => $data['property_type'],
         'any_agent' => $data['any_agent'],
         'lead_type' => $data['lead_type'],
-        'user_id' =>  isset(Auth::user()->id) ? getUserId() : null
+        'user_id' => isset(Auth::user()->id) ? getUserId() : null
       ]);
 
 
@@ -1736,7 +1710,7 @@ class PropertiesController extends Controller
         $data['type'] = 'Selling Leads';
         $data['time'] = Carbon::now();
         $data['message'] = $data['name'] . ' Just requested a selling lead';
-        $data['link'] =  url('admin/leads-info/' . $lead->id);
+        $data['link'] = url('admin/leads-info/' . $lead->id);
         $link = 'admin/leads-info/' . $lead->id;
         $data['path'] = asset('public/images/userdp/');
         $data['user'] = User::where('id', getUserId())->first()->toArray();
@@ -1748,7 +1722,7 @@ class PropertiesController extends Controller
         $data['type'] = 'Selling Leads';
         $data['time'] = Carbon::now();
         $data['message'] = $data['name'] . ' Just requested a selling lead';
-        $data['link'] =  url('admin/leads-info/' . $lead->id);
+        $data['link'] = url('admin/leads-info/' . $lead->id);
         $link = 'admin/leads-info/' . $lead->id;
         $data['user'] = '';
         $data['path'] = '';
@@ -1829,7 +1803,7 @@ class PropertiesController extends Controller
       $postal_code = '';
       $leadType = $data['lead_type'];
       $postal_code = '';
-      $lead =  PropertyLeads::create([
+      $lead = PropertyLeads::create([
         'address' => $data['address'],
         'city' => $data['city'],
         'state' => $data['state'],
@@ -1839,7 +1813,7 @@ class PropertiesController extends Controller
         'message' => $data['message'],
         'property_type' => $data['property_type'],
         'lead_type' => $data['lead_type'],
-        'user_id' =>  isset(Auth::user()->id) ? getUserId() : null
+        'user_id' => isset(Auth::user()->id) ? getUserId() : null
       ]);
 
       if (isUserLoggedIn()) {
@@ -1848,7 +1822,7 @@ class PropertiesController extends Controller
         $data['type'] = 'Buying Leads';
         $data['time'] = Carbon::now();
         $data['message'] = $data['name'] . ' Just requested a buying lead';
-        $data['link'] =  url('admin/leads-info/' . $lead->id);
+        $data['link'] = url('admin/leads-info/' . $lead->id);
         $link = 'admin/leads-info/' . $lead->id;
         $data['path'] = asset('public/images/userdp/');
         $data['user'] = User::where('id', getUserId())->first()->toArray();
@@ -1860,7 +1834,7 @@ class PropertiesController extends Controller
         $data['type'] = 'Buying Leads';
         $data['time'] = Carbon::now();
         $data['message'] = $data['name'] . ' Just requested a buying lead';
-        $data['link'] =  url('admin/leads-info/' . $lead->id);
+        $data['link'] = url('admin/leads-info/' . $lead->id);
         $link = 'admin/leads-info/' . $lead->id;
         $data['user'] = '';
         $data['path'] = '';
@@ -2032,9 +2006,11 @@ class PropertiesController extends Controller
     }
     //dd();
     $data['userData'] = $query
-      ->with(["role" => function ($q) {
-        $q->where('name', '=', 'Lender')->orWhere('name', '=', 'Loan Officer');
-      }])
+      ->with([
+        "role" => function ($q) {
+          $q->where('name', '=', 'Lender')->orWhere('name', '=', 'Loan Officer');
+        }
+      ])
       ->simplePaginate(20);
     return view('properties.mortgage-rate-list', $data);
   }
@@ -2151,7 +2127,7 @@ class PropertiesController extends Controller
 
 
     $data['page'] = $this->pagecontent->getbyid('4');
-    $data['properties']  = Properties::featuredclosedPrpty(7)->get()->toArray();
+    $data['properties'] = Properties::featuredclosedPrpty(7)->get()->toArray();
     //dd($data);
     return view('properties.first-time-homebuyer', $data);
   }
@@ -2262,7 +2238,7 @@ class PropertiesController extends Controller
   public function skzfav(Request $request)
   {
     $exist = FavoriteProperty::where(['properties_id' => $request['text'], 'user_id' => getUserId(), 'is_fav' => 1])->get();
-    $data['type'] =  'Property Favourite';
+    $data['type'] = 'Property Favourite';
     $data['is_read'] = false;
     $data['time'] = Carbon::now();
     $data['path'] = asset('public/images/userdp/');
@@ -2373,17 +2349,17 @@ class PropertiesController extends Controller
     ]);
   }
 
-  public  function notificationUpdate(Request $request)
+  public function notificationUpdate(Request $request)
   {
     Notifications::where('is_read', 0)->update(['is_read' => true]);
     return response()->json(['message' => 'All notifications marked as read']);
   }
 
-  public  function schoolSubrating(Request $request)
+  public function schoolSubrating(Request $request)
   {
 
     if (!empty($request->universalId)) {
-      $school =  greatSchoolSubrating($request->universalId);
+      $school = greatSchoolSubrating($request->universalId);
       //dd($school['equity-rating']);
       $i = 0;
       foreach ($school as $key => $innerSubratting) {
